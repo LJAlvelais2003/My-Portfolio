@@ -31,7 +31,6 @@ array simulation. A completed finite-array solution is not included.
 ## Files
 
 - [HFSS project](models/ProbeFedPatchArray_CircularAperture_TaylorTaper.aedt)
-- [Design report](docs/circular-taylor-array-design-report.pdf)
 - [Initial patch dimensions](matlab/initial_patch_dimensions.m)
 - [Uniform square array](matlab/uniform_square_array_factor.m)
 - [Uniform circular array](matlab/uniform_circular_array_factor.m)
