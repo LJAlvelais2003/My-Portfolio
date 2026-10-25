@@ -24,8 +24,8 @@ calculated in MATLAB. The probe offset and patch geometry were then optimized in
 Lattice pairs and Floquet ports were used for the infinite-array unit cell. The radiation patterns in the report were
 obtained with coax excitation. The field distributions are consistent with TM10 operation.
 
-PyAEDT was used to construct the circular array and apply the amplitude weights. FADDM4 was selected for the
-array simulation. A completed finite-array solution is not included.
+PyAEDT was used to construct the circular array and apply the amplitude weights. HFSS hybrid arrays solution type is used to 
+truncate the simulation time. 
 
 
 ## Files
