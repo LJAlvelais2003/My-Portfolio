@@ -9,9 +9,8 @@ Figure 1. Helical antenna geometry from the earlier laboratory report.
 
 ## Design and Results
 
-The input port was first de-embedded to inspect the helix impedance. A quarter-wave transformer was tested in ADS,
-then placed in the full antenna model. Its response changed after integration, so the printed matching section was
-revised using the complex antenna impedance.
+The input port was first de-embedded to inspect the helix impedance. An FR4 printed match track was used to create the 
+most optimal match to 50 Ohms. 
 
 The notes compare turn count, wire radius, feed offset, pitch angle, and matching-line length. The supplied model
 uses twelve turns. Wire-gauge variants were also studied for fabrication.
