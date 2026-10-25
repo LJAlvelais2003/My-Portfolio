@@ -1,7 +1,6 @@
-# 4 GHz Probe-Fed Patch Array
+# 2.4 GHz Probe-Fed Patch Array
 
-A probe-fed patch array with a circular Taylor aperture. The patch has been retuned for 4 GHz. The attached report
-documents the earlier 2.4 GHz design and the development of the aperture distribution.
+A probe-fed patch array with a circular Taylor aperture at 2.4 GHz.
 
 ![Circular patch array layout](figures/circular-array-layout.png)
 
@@ -28,13 +27,6 @@ obtained with coax excitation. The field distributions are consistent with TM10 
 PyAEDT was used to construct the circular array and apply the amplitude weights. FADDM4 was selected for the
 array simulation. A completed finite-array solution is not included.
 
-## Model Revisions
-
-The project contains a saved 4 GHz result reference in `ProbeFedPatch`. The `UnitCell` and `CircularTaylor_FADDM`
-setups still use 2.45 and 2.4 GHz. The report figures describe that earlier revision and are kept separate from the
-4 GHz update.
-
-[Unit-cell figures and revision notes](docs/revision-notes.md)
 
 ## Files
 
