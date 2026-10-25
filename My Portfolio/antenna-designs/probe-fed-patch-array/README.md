@@ -30,8 +30,6 @@ truncate the simulation time.
 
 ## Files
 
-- [Design report](docs/circular-taylor-array-design-report.pdf)
-- [Model revisions](docs/model-revisions.md)
 - [HFSS project](models/ProbeFedPatchArray_CircularAperture_TaylorTaper.aedt)
 - [Initial patch dimensions](matlab/initial_patch_dimensions.m)
 - [Uniform square array](matlab/uniform_square_array_factor.m)
