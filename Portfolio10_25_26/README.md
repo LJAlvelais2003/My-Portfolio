@@ -1,7 +1,6 @@
 # Leo Alvelais
 
-A collection of electrical engineering projects I have worked on individually and with others. Most of the work
-is in antenna design. Other projects cover MMIC design, software defined radio, and STM32 systems.
+A collection of electrical engineering projects I have worked on individually and with others. Most if not all of the projects revolve around wireless communications and antennas/antenna arrays. 
 
 ## Antenna Designs
 
