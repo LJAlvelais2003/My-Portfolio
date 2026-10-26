@@ -12,7 +12,7 @@ MATLAB was used to compare uniform square and circular apertures with a circular
 the corner elements changed the sidelobes from a rectangular pattern to roughly concentric rings. The continuous
 Taylor distribution was then sampled at the element centers to obtain the excitation weights.
 
-![Sampled and continuous Taylor amplitude distributions](figures/taylor-amplitude-distribution.png)
+![Sampled and continuous Taylor amplitude distributions](figures/ApertureDistribution.png)
 
 Figure 2. Sampled and continuous Taylor amplitude distributions.
 
