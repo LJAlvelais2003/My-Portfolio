@@ -37,5 +37,8 @@ truncate the simulation time.
 - [Sampled circular Taylor array](matlab/circular_taylor_array_factor.m)
 - [Continuous circular Taylor aperture](matlab/continuous_circular_taylor_aperture.m)
 - [Additional analytical plots](figures/README.md)
-
-[Antenna designs](../README.md) | [Portfolio](../../../README.md)
+- [Simulated Principal Plane cut](figures/PrincipalPlaneCutHFSS.png)
+- [Simulated Aperture Field Distribution](ApertureDistrHFSS.png)
+- [Simulated Total Gain](3DPolarPlotHFSS.png)
+  
+- [Antenna designs](../README.md) | [Portfolio](../../../README.md)
