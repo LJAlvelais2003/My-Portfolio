@@ -4,5 +4,6 @@ Preview of ongoing work on a leaky-wave antenna with 1-bit phase reconfiguration
 added as the design develops.
 
 
+![HFSS Model](figures/1BR-LWA.png)
 
 [Antenna designs](../README.md) | [Portfolio](../../../README.md)
