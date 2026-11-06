@@ -1,6 +1,6 @@
 # Leo Alvelais
 
-A collection of electrical engineering projects I have worked on individually and with others. Most if not all of the projects revolve around wireless communications and antennas/antenna arrays.
+A collection of projects I have worked on individually and with others. Most if not all of the projects revolve around wireless communications and antennas/antenna arrays.
 
 ## How to navigate
 
